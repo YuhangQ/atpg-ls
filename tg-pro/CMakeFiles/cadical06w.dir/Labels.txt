@@ -1,0 +1,13 @@
+# Target labels
+ cadical06w
+# Source files and their labels
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w-complete.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-build.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-configure.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-download.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-install.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-mkdir.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-patch.rule
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-update.rule

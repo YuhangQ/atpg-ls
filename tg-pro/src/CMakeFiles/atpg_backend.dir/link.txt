@@ -1,0 +1,2 @@
+/usr/bin/ar qc libatpg_backend.a CMakeFiles/atpg_backend.dir/circuit_graph.cpp.o CMakeFiles/atpg_backend.dir/iscas89_parser.cpp.o CMakeFiles/atpg_backend.dir/circuit_to_cnf.cpp.o CMakeFiles/atpg_backend.dir/fault_cnf.cpp.o CMakeFiles/atpg_backend.dir/fault_manager.cpp.o CMakeFiles/atpg_backend.dir/cnf.cpp.o CMakeFiles/atpg_backend.dir/util/log.cpp.o
+/usr/bin/ranlib libatpg_backend.a

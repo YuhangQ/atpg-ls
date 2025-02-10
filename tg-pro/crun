@@ -1,0 +1,14 @@
+#!/bin/bash
+
+clear
+
+cmake . && make -j
+
+if [ $? -ne 0 ]; then
+    echo "compile failed."
+else
+    clear
+    echo "======= compile success ======="
+    ./bin/atpgSat $1
+fi
+

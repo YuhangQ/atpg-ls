@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsat_solver.a CMakeFiles/sat_solver.dir/sat_solver.cpp.o
+/usr/bin/ranlib libsat_solver.a

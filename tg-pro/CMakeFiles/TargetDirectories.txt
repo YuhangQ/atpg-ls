@@ -1,0 +1,16 @@
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/edit_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/rebuild_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/CMakeFiles/edit_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/CMakeFiles/rebuild_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/CMakeFiles/atpg_backend.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/CMakeFiles/atpgSat.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/CMakeFiles/edit_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/CMakeFiles/rebuild_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/CMakeFiles/sat_solver.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/CMakeFiles/cadical_sat.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/CMakeFiles/edit_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/CMakeFiles/rebuild_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/CMakeFiles/tests.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/CMakeFiles/edit_cache.dir
+/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/CMakeFiles/rebuild_cache.dir

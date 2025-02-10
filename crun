@@ -1,0 +1,18 @@
+#!/bin/bash
+
+clear
+
+mkdir -p build
+cd build
+
+cmake .. && make -j
+
+if [ $? -ne 0 ]; then
+    echo "compile failed."
+else
+    cd ..
+    clear
+    echo "========================"
+    time ./build/src/atpg -i $1 --lut=12 --seed=17
+fi
+

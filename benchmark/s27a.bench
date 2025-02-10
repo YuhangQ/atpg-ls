@@ -1,0 +1,26 @@
+# generate by dftconverter: https://gitea.yuhangq.com:8/YuhangQ/DFT_Converter
+# gates: 17
+
+INPUT(G1)
+INPUT(G2)
+INPUT(G3)
+INPUT(G4)
+INPUT(G5)
+INPUT(G6)
+INPUT(G7)
+
+OUTPUT(G11)
+OUTPUT(G15)
+OUTPUT(G16)
+OUTPUT(G17)
+
+G8 = NOT ( G1 )
+G9 = NOR ( G2, G7 )
+G10 = AND ( G6, G8 )
+G11 = NOR ( G3, G9 )
+G12 = OR ( G10, G9 )
+G13 = OR ( G10, G4 )
+G14 = NAND ( G13, G12 )
+G15 = NOR ( G5, G14 )
+G16 = NOT ( G15 )
+G17 = NOR ( G15, G8 )

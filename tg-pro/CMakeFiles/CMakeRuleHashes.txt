@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+eaa9ad2b56d8ab2a44ad76d671baf232 CMakeFiles/cadical06w
+f362bc7f2bcac5bb1fd1e7e6037701e8 CMakeFiles/cadical06w-complete
+a4b35855d2e330270c93ed45bb9cfced cadical06w/src/cadical06w-stamp/cadical06w-build
+598ee728b2abc4408d7152f2f95eaea1 cadical06w/src/cadical06w-stamp/cadical06w-configure
+b0d4d7cde5f6b543b3aa825fb13911d1 cadical06w/src/cadical06w-stamp/cadical06w-download
+7db1c01d51a0bceb823530fd9cd7a856 cadical06w/src/cadical06w-stamp/cadical06w-install
+6af85d1e3e976aa8527ccedc83dbc5b3 cadical06w/src/cadical06w-stamp/cadical06w-mkdir
+38143e9d38922068861a15376bd5181b cadical06w/src/cadical06w-stamp/cadical06w-patch
+33ccb4060a91babca757f4da5051da5a cadical06w/src/cadical06w-stamp/cadical06w-update

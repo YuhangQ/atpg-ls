@@ -1,0 +1,405 @@
+[H[2J[3J-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /pub/netdisk1/qianyh/atpg-ls/tg-pro
+[ 28%] Built target cadical06w
+[ 35%] Built target cadical_sat
+[ 42%] Built target sat_solver
+[ 71%] Built target atpg_backend
+[ 78%] Built target atpgSat
+[100%] Built target tests
+[H[2J[3J======= compile success =======
+LINEA/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+LINEA/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U40/I2 S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U43/I1 S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U47/I1 S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U45/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U49/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+STATO_REG_2_/O S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+STATO_REG_2_/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U40/I1 S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U47/I3 S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U50/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U31/I3 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+STATO_REG_1_/O S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+STATO_REG_1_/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U43/I2 S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U52/I1 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U42/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+STATO_REG_0_/O S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+STATO_REG_0_/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U47/I2 S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U41/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U46/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U51/I1 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U31/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U31/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+__new_OUT1_U_REG/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+__new_OUT1_U_REG/O S-A-1	 LINEA 1 
+	 U_REG 0 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U33/O S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U33/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U38/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U38/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U32/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U32/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U36/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U34/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U34/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U45/I2 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U49/I2 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U44/I1 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U52/I2 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U40/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U37/O S-A-0	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U37/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U31/I2 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U48/I2 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U43/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U35/O S-A-0	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U35/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U31/I1 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U52/I3 S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U39/I3 S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U47/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U50/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U45/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U49/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U41/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 1 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U44/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U52/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U46/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U39/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 0 
+===DETECTABLE=== 
+U51/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U48/O S-A-1	 LINEA 1 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 0 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+U42/O S-A-1	 LINEA 0 
+	 U_REG 1 
+	 STATO_REG_2_ 0 
+	 STATO_REG_1_ 1 
+	 STATO_REG_0_ 1 
+===DETECTABLE=== 
+Timing: 
+   Fault generation: 0 ms 
+   CNF generation: 6 ms 
+   CNF solving: 1 ms 
+   Slowest solve time: 0 ms 
+   Total: 9 ms 
+ 
+Total: 64 
+Detectable: 64 
+Undetectable: 0 
+UNKNOWN: 0 

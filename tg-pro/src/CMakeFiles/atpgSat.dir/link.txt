@@ -1,0 +1,1 @@
+/usr/bin/c++  -Ofast -march=native -flto -std=c++11 -Werror -Wall -Wextra -Wpedantic -rdynamic CMakeFiles/atpgSat.dir/main.cpp.o -o ../../bin/atpgSat  libatpg_backend.a sat/libsat_solver.a sat/libcadical_sat.a ../cadical06w/src/cadical06w/build/libcadical.a 

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/CMakeFiles/cadical06w-complete.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-build.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-configure.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-download.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-install.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-mkdir.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-patch.rule"
+		},
+		{
+			"file" : "/pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w-stamp/cadical06w-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cadical06w"
+		],
+		"name" : "cadical06w"
+	}
+}

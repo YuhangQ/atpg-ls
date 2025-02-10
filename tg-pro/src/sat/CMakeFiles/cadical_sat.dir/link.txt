@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcadical_sat.a CMakeFiles/cadical_sat.dir/cadical.cpp.o
+/usr/bin/ranlib libcadical_sat.a

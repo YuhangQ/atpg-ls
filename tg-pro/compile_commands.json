@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/circuit_graph.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/circuit_graph.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/circuit_graph.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/circuit_graph.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/iscas89_parser.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/iscas89_parser.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/iscas89_parser.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/iscas89_parser.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/circuit_to_cnf.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/circuit_to_cnf.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/circuit_to_cnf.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/circuit_to_cnf.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/fault_cnf.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/fault_cnf.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/fault_cnf.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/fault_cnf.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/fault_manager.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/fault_manager.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/fault_manager.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/fault_manager.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/cnf.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/cnf.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/cnf.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/cnf.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpg_backend.dir/util/log.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util/log.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/util/log.cpp",
+  "output": "src/CMakeFiles/atpg_backend.dir/util/log.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src",
+  "command": "/usr/bin/c++  -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/atpgSat.dir/main.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/main.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/main.cpp",
+  "output": "src/CMakeFiles/atpgSat.dir/main.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat",
+  "command": "/usr/bin/c++ -DUSE_CADICAL=1 -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/cadical_sat.dir/cadical.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/cadical.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/cadical.cpp",
+  "output": "src/sat/CMakeFiles/cadical_sat.dir/cadical.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat",
+  "command": "/usr/bin/c++ -DUSE_CADICAL=1 -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/sat_solver.dir/sat_solver.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/sat_solver.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/sat/sat_solver.cpp",
+  "output": "src/sat/CMakeFiles/sat_solver.dir/sat_solver.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/. -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/tests.dir/test_main.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_main.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_main.cpp",
+  "output": "src/tests/CMakeFiles/tests.dir/test_main.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/. -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/tests.dir/test_circuit_graph.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_circuit_graph.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_circuit_graph.cpp",
+  "output": "src/tests/CMakeFiles/tests.dir/test_circuit_graph.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/. -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/tests.dir/test_cnf.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_cnf.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_cnf.cpp",
+  "output": "src/tests/CMakeFiles/tests.dir/test_cnf.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/. -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/tests.dir/test_fault_cnf.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_fault_cnf.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_fault_cnf.cpp",
+  "output": "src/tests/CMakeFiles/tests.dir/test_fault_cnf.cpp.o"
+},
+{
+  "directory": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests",
+  "command": "/usr/bin/c++  -I/pub/netdisk1/qianyh/atpg-ls/tg-pro/3rdparty/catch2/. -isystem /pub/netdisk1/qianyh/atpg-ls/tg-pro/cadical06w/src/cadical06w/src  -std=c++11 -Werror -Wall -Wextra -Wpedantic -o CMakeFiles/tests.dir/test_fault_manager.cpp.o -c /pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_fault_manager.cpp",
+  "file": "/pub/netdisk1/qianyh/atpg-ls/tg-pro/src/tests/test_fault_manager.cpp",
+  "output": "src/tests/CMakeFiles/tests.dir/test_fault_manager.cpp.o"
+}
+]
